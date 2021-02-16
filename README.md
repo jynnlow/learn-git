@@ -4,3 +4,5 @@ My own repo to learn git
 I'm Jynn
 
 This is bugFix branch
+
+Changes bugFix
